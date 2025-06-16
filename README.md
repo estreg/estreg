@@ -4,14 +4,15 @@ Hi there 👋 and welcome to my GiHub profile.
 I originally come from a background in theoretical philosophy, where I explored questions about mind or consciousness and cognition 🧠.
 These days, I’m diving into similarly complex — yet totally different — systems through code. Not with arguments and papers anymore, but with programming languages, APIs, and databases — and not in MS Word, but in VS Code 💻 and with the CLI ⚙️.
 
-I'm currently learning through Boot.dev and working my way toward a career in backend development for about half a year now. 🚀
+I'm currently learning through [Boot.dev](https://www.boot.dev/) for about half a year now and working my way toward a career in backend development 🚀.
+On my [profile](https://www.boot.dev/u/estreg) you can check out which courses I’ve already completed and which achievements I’ve unlocked along the way.
 
-### boot.dev achievments
-
+Btw, I’m officially an Archmage 🧙‍♂️.
+<!-- insert picture -->
 ... 🛠️ work in progress ...
 
 # Technologies
-
+I don’t use Arch btw, but I use [EndeavourOS](https://endeavouros.com/), and WSL2 Ubuntu on my main rig.
 ... 🛠️ work in progress ...
 
 # Projects
