@@ -16,47 +16,38 @@ On my [profile](https://www.boot.dev/u/estreg) you can check out which courses I
 ## Technologies
 ~~I use Arch *btw*,~~ I use [EndeavourOS](https://endeavouros.com/), and WSL2 Ubuntu on my main rig.
 
-Python 🐍
+So far in my (still short) journey, I’ve mainly worked with
+- Go 🐹 and
+- Python 🐍,
+- but I’ve also taken some courses in JavaScript 🌐 and TypeScript 📘.
 
-... 🛠️ work in progress ...
+For more tools I’m learning to work with, feel free to check out my repositories!
 
 ## Projects
 At the moment, I’m working on a [CLI AI agent tool](https://github.com/estreg/ai-agent-hegstreg) — partly to brush up on my Python skills, but also to get a better grasp of how these smart little gadgets 🤖 actually work.
+I’m also sketching out ideas for a CLI text adventure in the spirit of *[Zork](https://en.wikipedia.org/wiki/Zork#:~:text=Historians%20have%20argued%20that%20Zork,online%20role%2Dplaying%20game%20genre.)*, but most of my time still goes into Boot.dev courses 📚.
 
-... 🛠️ work in progress ...
+If you’ve got cool ideas for a trainee or feel like building something together, feel free to reach out! 🤝
 
 ## Social Media
-
-... 🛠️ work in progress ...
+- [Instgram](https://www.instagram.com/paul_gerste/)
+- [LinkedIn](www.linkedin.com/in/paul-gerstmann) --> work in progress 🛠️
 
 ## Contact
 
-... 🛠️ work in progress ...
+If you want to get in touch, *LinkedIn* is the best way to reach me for now 💬.
 
-## Non coding related Hobbies
-
-... 🛠️ work in progress ...
+## What I do when I’m not debugging
+- Play the bass guitar in a extreme metal band called *Marcation* [Bandcamp](https://marcation.bandcamp.com/album/madness)/[Instagram](https://www.instagram.com/marcation_official/)
+- *EDH*: where I go to find peace, power, and occasionally infinite combos. And *Deckbuilding* in EDH is how I realign my mental mana pool.
+- I recharge my social battery by hitting the *gym* 🏋️‍♂️, exploring the *outdoors* 🥾, and diving into *books* 📚 that are too heavy to carry on hikes.
+- When it comes to escaping reality, I love diving into *pen & paper* adventures — the darker and more eldritch, the better 🐙.
+- My gaming career is currently on pause ⏸️ so I can focus fully on developing — but some games still hold a special place in my heart:
+  - Dark Souls 1, 3 und Elden Ring
+  - World of Warcraft Retail
+  - Baldurs Gate III
+  - Disco Elysium
+  - Bioshock
+  - Final Fantasy 10
 
 Thank you for visiting! And maybe we can share some code in the future 🧪
-
-<!--
-**estreg/estreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# About Me
-
-# Projects
-
-# Social Media
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
