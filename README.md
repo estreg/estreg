@@ -1,34 +1,37 @@
-Hi there 👋 and welcome to my GiHub profile.
+# Hi there 👋 and welcome to my GiHub profile.
 
-# About Me
-I originally come from a background in theoretical philosophy, where I explored questions about mind or consciousness and cognition 🧠.
+## About Me
+I originally come from a background in theoretical philosophy, where I explored questions about mind / consciousness and cognition 🧠.
 These days, I’m diving into similarly complex — yet totally different — systems through code. Not with arguments and papers anymore, but with programming languages, APIs, and databases — and not in MS Word, but in VS Code 💻 and with the CLI ⚙️.
 
 I'm currently learning through [Boot.dev](https://www.boot.dev/) for about half a year now and working my way toward a career in backend development 🚀.
 On my [profile](https://www.boot.dev/u/estreg) you can check out which courses I’ve already completed and which achievements I’ve unlocked along the way.
 
-Btw, I’m officially an Archmage 🧙‍♂️.
+Btw, I’m officially an **Archmage** 🧙‍♂️.
 <!-- insert picture -->
 ... 🛠️ work in progress ...
 
-# Technologies
-I don’t use Arch btw, but I use [EndeavourOS](https://endeavouros.com/), and WSL2 Ubuntu on my main rig.
+## Technologies
+~~I use Arch *btw*,~~ I use [EndeavourOS](https://endeavouros.com/), and WSL2 Ubuntu on my main rig.
+
+Python 🐍
 
 ... 🛠️ work in progress ...
 
-# Projects
+## Projects
+At the moment, I’m working on a [CLI AI agent tool](https://github.com/estreg/ai-agent-hegstreg) — partly to brush up on my Python skills, but also to get a better grasp of how these smart little gadgets 🤖 actually work.
 
 ... 🛠️ work in progress ...
 
-# Social Media
+## Social Media
 
 ... 🛠️ work in progress ...
 
-# Contact
+## Contact
 
 ... 🛠️ work in progress ...
 
-# Non coding related Hobbies
+## Non coding related Hobbies
 
 ... 🛠️ work in progress ...
 
