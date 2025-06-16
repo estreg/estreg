@@ -13,6 +13,7 @@ Btw, I’m officially an Archmage 🧙‍♂️.
 
 # Technologies
 I don’t use Arch btw, but I use [EndeavourOS](https://endeavouros.com/), and WSL2 Ubuntu on my main rig.
+
 ... 🛠️ work in progress ...
 
 # Projects
