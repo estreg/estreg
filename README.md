@@ -4,6 +4,10 @@ Hi there 👋 and welcome to my GiHub profile.
 
 ... 🛠️ work in progress ...
 
+# Technologies
+
+... 🛠️ work in progress ...
+
 # Projects
 
 ... 🛠️ work in progress ...
