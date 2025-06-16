@@ -1,6 +1,12 @@
 Hi there 👋 and welcome to my GiHub profile.
 
 # About Me
+I originally come from a background in theoretical philosophy, where I explored questions about mind or consciousness and cognition 🧠.
+These days, I’m diving into similarly complex — yet totally different — systems through code. Not with arguments and papers anymore, but with programming languages, APIs, and databases — and not in MS Word, but in VS Code 💻 and the CLI ⚙️.
+
+I'm currently learning through Boot.dev and working my way toward a career in backend development for about half a year now. 🚀
+
+### boot.dev achievments
 
 ... 🛠️ work in progress ...
 
