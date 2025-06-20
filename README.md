@@ -31,7 +31,7 @@ If you’ve got cool ideas for a trainee or feel like building something togethe
 
 ## Social Media
 - [Instgram](https://www.instagram.com/paul_gerste/)
-- [LinkedIn](https://www.linkedin.com/in/paul-gerstmann/) --> work in progress 🛠️
+- [LinkedIn](https://www.linkedin.com/in/paul-gerstmann/)
 
 ## Contact
 
